@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mannings.msi.com.smartipc">
+
+    <meta-data
+        android:name="google_analytics_adid_collection_enabled"
+        android:value="false" />
+    <meta-data
+        android:name="firebase_analytics_collection_enabled"
+        android:value="false" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ChooseIdiomas"></activity>
+        <activity android:name=".GruposKindA" />
+        <activity android:name=".GruposKind0" />
+        <activity android:name=".GruposKind9" />
+        <activity android:name=".GruposKind8" />
+        <activity android:name=".GruposKind7" />
+        <activity android:name=".GruposKind6" />
+        <activity android:name=".GruposKind5" />
+        <activity android:name=".GruposKind4" />
+        <activity android:name=".GruposKind3" />
+        <activity android:name=".GruposKind2" />
+        <activity android:name=".GruposKind1" />
+        <activity android:name=".SubClasses" />
+        <activity android:name=".Classes" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".About" />
+        <activity android:name=".Pesquisa" />
+        <activity android:name=".GruposPesquisa" />
+        <activity android:name=".GruposKindB" />
+
+    </application>
+
+</manifest>

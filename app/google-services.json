@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "715306118673",
+    "firebase_url": "https://smartipc-826ab.firebaseio.com",
+    "project_id": "smartipc-826ab",
+    "storage_bucket": "smartipc-826ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715306118673:android:56eb605289154074",
+        "android_client_info": {
+          "package_name": "mannings.msi.com.smartipc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715306118673-kln16cp1ev6tsn1dnnnanenv5eganrsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mannings.msi.com.smartipc",
+            "certificate_hash": "ce905b2f896bd82933bb97f26ae1d7a4f76d5980"
+          }
+        },
+        {
+          "client_id": "715306118673-thpgb5tl14k1356vbaup7oqofaruviur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0oPF2UAB1_kOZrQm71LZMcn2U0Fntqw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715306118673-thpgb5tl14k1356vbaup7oqofaruviur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartIPC</string>
+    <string name="item_inicio">Início</string>
+    <string name="item_pesquisa">Pesquisa</string>
+    <string name="item_idiomas">Idiomas</string>
+    <string name="item_about">Informações</string>
+    <string name="item_sair">Sair</string>
+    <string name="pesquisar">Digite o grupo, p.ex H01L27/115</string>
+    <string name="procure">Procure</string>
+    <string name="stripc">Classificação Internacional de Patentes</string>
+    <string name="about1">Este app foi desenvolvido por Antonio Abrantes - 2019</string>
+    <string name="about2">contacte: otimistarj@gmail.com</string>
+    <string name="about3">Versões em Inglês e Francês da IPC em https://www.wipo.int/ipc/itos4ipc/ITSupport_and_download_area/20190101/MasterFiles/</string>
+    <string name="about5">Versão em Português da IPC em http://ipc.inpi.gov.br/</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+</resources>

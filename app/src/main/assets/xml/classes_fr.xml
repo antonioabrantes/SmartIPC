@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+    <row>
+        <field name='symbol'>A01</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>AGRICULTURE; SYLVICULTURE; ÉLEVAGE; CHASSE; PIÉGEAGE; PÊCHE</field>
+        <field name='indice'>1</field>
+        <field name='proximo'>2</field>
+    </row>
+    <row>
+        <field name='symbol'>A21</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>CUISSON AU FOUR; MATÉRIEL POUR LA PRÉPARATION OU LE TRAITEMENT DE LA PÂTE; PÂTE À CUIRE</field>
+        <field name='indice'>1</field>
+        <field name='proximo'>3</field>
+    </row>
+    <row>
+        <field name='symbol'>A22</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>BOUCHERIE; TRAITEMENT DE LA VIANDE; TRAITEMENT DE LA VOLAILLE OU DU POISSON</field>
+        <field name='indice'>1</field>
+        <field name='proximo'>4</field>
+    </row>
+    <row>
+        <field name='symbol'>A23</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>ALIMENTS OU PRODUITS ALIMENTAIRES; LEUR TRAITEMENT, NON COUVERT PAR DAUTRES CLASSES</field>
+        <field name='indice'>1</field>
+        <field name='proximo'>5</field>
+    </row>
+    <row>
+        <field name='symbol'>A24</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>TABAC; CIGARES; CIGARETTES; ARTICLES POUR FUMEURS</field>
+        <field name='indice'>1</field>
+        <field name='proximo'>6</field>
+    </row>
+    <row>
+        <field name='symbol'>A41</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>VÊTEMENTS</field>
+        <field name='indice'>1</field>
+        <field name='proximo'>7</field>
+    </row>
+    <row>
+        <field name='symbol'>A42</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>CHAPELLERIE</field>
+        <field name='indice'>1</field>
+        <field name='proximo'>8</field>
+    </row>
+    <row>
+        <field name='symbol'>A43</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>CHAUSSURES</field>
+        <field name='indice'>1</field>
+        <field name='proximo'>9</field>
+    </row>
+    <row>
+        <field name='symbol'>A44</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MERCERIE; BIJOUTERIE</field>
+        <field name='indice'>1</field>
+        <field name='proximo'>10</field>
+    </row>
+    <row>
+        <field name='symbol'>A45</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>OBJETS DUSAGE PERSONNEL OU ARTICLES DE VOYAGE</field>
+        <field name='indice'>1</field>
+        <field name='proximo'>11</field>
+    </row>
+    <row>
+        <field name='symbol'>A46</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>BROSSERIE</field>
+        <field name='indice'>1</field>
+        <field name='proximo'>12</field>
+    </row>
+    <row>
+        <field name='symbol'>A47</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>AMEUBLEMENT; ARTICLES OU APPAREILS MÉNAGERS; MOULINS À CAFÉ; MOULINS À ÉPICES; ASPIRATEURS EN GÉNÉRAL</field>
+        <field name='indice'>1</field>
+        <field name='proximo'>13</field>
+    </row>
+    <row>
+        <field name='symbol'>A61</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>SCIENCES MÉDICALE OU VÉTÉRINAIRE; HYGIÈNE</field>
+        <field name='indice'>1</field>
+        <field name='proximo'>14</field>
+    </row>
+    <row>
+        <field name='symbol'>A62</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>SAUVETAGE; LUTTE CONTRE LINCENDIE</field>
+        <field name='indice'>1</field>
+        <field name='proximo'>15</field>
+    </row>
+    <row>
+        <field name='symbol'>A63</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>SPORTS; JEUX; DISTRACTIONS</field>
+        <field name='indice'>1</field>
+        <field name='proximo'>16</field>
+    </row>
+    <row>
+        <field name='symbol'>A99</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MATIÈRE NON PRÉVUE AILLEURS DANS LA PRÉSENTE SECTION</field>
+        <field name='indice'>1</field>
+        <field name='proximo'>17</field>
+    </row>
+    <row>
+        <field name='symbol'>B01</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>PROCÉDÉS OU APPAREILS PHYSIQUES OU CHIMIQUES EN GÉNÉRAL</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2697</field>
+    </row>
+    <row>
+        <field name='symbol'>B02</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>BROYAGE, RÉDUCTION EN POUDRE OU DÉSAGRÉGATION; TRAITEMENT PRÉPARATOIRE DES GRAINES POUR LA MOUTURE</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2698</field>
+    </row>
+    <row>
+        <field name='symbol'>B03</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>SÉPARATION DES SOLIDES PAR UTILISATION DE LIQUIDES OU PAR UTILISATION DE TABLES OU CRIBLES À PISTON PNEUMATIQUES; SÉPARATION MAGNÉTIQUE OU ÉLECTROSTATIQUE DE MATÉRIAUX SOLIDES À PARTIR DE MATÉRIAUX SOLIDES OU DE FLUIDES; SÉPARATION PAR DES CHAMPS ÉLECTRIQUES À HAUTE TENSION</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2699</field>
+    </row>
+    <row>
+        <field name='symbol'>B04</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>APPAREILS OU MACHINES CENTRIFUGES UTILISÉS AVEC LES PROCÉDÉS PHYSIQUES OU CHIMIQUES</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2700</field>
+    </row>
+    <row>
+        <field name='symbol'>B05</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>PULVÉRISATION OU ATOMISATION EN GÉNÉRAL; APPLICATION DE LIQUIDES OU DAUTRES MATÉRIAUX FLUIDES AUX SURFACES, EN GÉNÉRAL</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2701</field>
+    </row>
+    <row>
+        <field name='symbol'>B06</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>PRODUCTION OU TRANSMISSION DES VIBRATIONS MÉCANIQUES, EN GÉNÉRAL</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2702</field>
+    </row>
+    <row>
+        <field name='symbol'>B07</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>SÉPARATION DES SOLIDES; TRIAGE</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2703</field>
+    </row>
+    <row>
+        <field name='symbol'>B08</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>NETTOYAGE</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2704</field>
+    </row>
+    <row>
+        <field name='symbol'>B09</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>ÉLIMINATION DES DÉCHETS SOLIDES; RÉGÉNÉRATION DE SOLS POLLUÉS</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2705</field>
+    </row>
+    <row>
+        <field name='symbol'>B21</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>TRAVAIL MÉCANIQUE DES MÉTAUX SANS ENLÈVEMENT SUBSTANTIEL DE MATIÈRE; DÉCOUPAGE DU MÉTAL À LEMPORTE-PIÈCE</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2706</field>
+    </row>
+    <row>
+        <field name='symbol'>B22</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>FONDERIE; MÉTALLURGIE DES POUDRES MÉTALLIQUES</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2707</field>
+    </row>
+    <row>
+        <field name='symbol'>B23</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MACHINES-OUTILS; TRAVAIL DES MÉTAUX NON PRÉVU AILLEURS</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2708</field>
+    </row>
+    <row>
+        <field name='symbol'>B24</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MEULAGE; POLISSAGE</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2709</field>
+    </row>
+    <row>
+        <field name='symbol'>B25</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>OUTILS À MAIN; OUTILS PORTATIFS À MOTEUR; MANCHES POUR USTENSILES À MAIN; OUTILLAGE DATELIER; MANIPULATEURS</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2710</field>
+    </row>
+    <row>
+        <field name='symbol'>B26</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>OUTILS POUR TAILLER À MAIN; COUPE; SÉPARATION</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2711</field>
+    </row>
+    <row>
+        <field name='symbol'>B27</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>TRAVAIL OU CONSERVATION DU BOIS OU DE MATÉRIAUX SIMILAIRES; MACHINES POUR CLOUER, AGRAFER OU BROCHER EN GÉNÉRAL</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2712</field>
+    </row>
+    <row>
+        <field name='symbol'>B28</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>TRAVAIL DU CIMENT, DE LARGILE OU DE LA PIERRE</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2713</field>
+    </row>
+    <row>
+        <field name='symbol'>B29</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>TRAVAIL DES MATIÈRES PLASTIQUES; TRAVAIL DES SUBSTANCES À LÉTAT PLASTIQUE EN GÉNÉRAL</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2714</field>
+    </row>
+    <row>
+        <field name='symbol'>B30</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>PRESSES</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2715</field>
+    </row>
+    <row>
+        <field name='symbol'>B31</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>FABRICATION DARTICLES EN PAPIER, EN CARTON OU EN MATÉRIAUX TRAVAILLÉS D’UNE MANIÈRE ANALOGUE AU PAPIER; TRAVAIL DU PAPIER, DU CARTON OU DE MATÉRIAUX TRAVAILLÉS D’UNE MANIÈRE ANALOGUE AU PAPIER</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2716</field>
+    </row>
+    <row>
+        <field name='symbol'>B32</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>PRODUITS STRATIFIÉS</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2717</field>
+    </row>
+    <row>
+        <field name='symbol'>B33</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>TECHNOLOGIE DE FABRICATION ADDITIVE</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2718</field>
+    </row>
+    <row>
+        <field name='symbol'>B41</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>IMPRIMERIE; LIGNARDS; MACHINES À ÉCRIRE; TIMBRES</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2719</field>
+    </row>
+    <row>
+        <field name='symbol'>B42</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>RELIURE; ALBUMS; CLASSEURS; IMPRIMÉS PARTICULIERS</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2720</field>
+    </row>
+    <row>
+        <field name='symbol'>B43</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MATÉRIEL POUR ÉCRIRE OU DESSINER; ACCESSOIRES DE BUREAU</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2721</field>
+    </row>
+    <row>
+        <field name='symbol'>B44</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>ARTS DÉCORATIFS</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2722</field>
+    </row>
+    <row>
+        <field name='symbol'>B60</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>VÉHICULES EN GÉNÉRAL</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2723</field>
+    </row>
+    <row>
+        <field name='symbol'>B61</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>CHEMINS DE FER</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2724</field>
+    </row>
+    <row>
+        <field name='symbol'>B62</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>VÉHICULES TERRESTRES SE DÉPLAÇANT AUTREMENT QUE SUR RAILS</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2725</field>
+    </row>
+    <row>
+        <field name='symbol'>B63</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>NAVIRES OU AUTRES ENGINS FLOTTANTS; LEUR ÉQUIPEMENT</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2726</field>
+    </row>
+    <row>
+        <field name='symbol'>B64</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>AÉRONAUTIQUE; AVIATION; ASTRONAUTIQUE</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2727</field>
+    </row>
+    <row>
+        <field name='symbol'>B65</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MANUTENTION; EMBALLAGE; EMMAGASINAGE; MANIPULATION DES MATÉRIAUX DE FORME PLATE OU FILIFORME</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2728</field>
+    </row>
+    <row>
+        <field name='symbol'>B66</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>HISSAGE; LEVAGE; HALAGE</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2729</field>
+    </row>
+    <row>
+        <field name='symbol'>B67</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>OUVERTURE OU FERMETURE DES BOUTEILLES, BOCAUX OU RÉCIPIENTS ANALOGUES; MANIPULATION DES LIQUIDES</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2730</field>
+    </row>
+    <row>
+        <field name='symbol'>B68</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>BOURRELLERIE; CAPITONNAGE</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2731</field>
+    </row>
+    <row>
+        <field name='symbol'>B81</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>TECHNOLOGIE DES MICROSTRUCTURES</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2732</field>
+    </row>
+    <row>
+        <field name='symbol'>B82</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>NANOTECHNOLOGIE</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2733</field>
+    </row>
+    <row>
+        <field name='symbol'>B99</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MATIÈRE NON PRÉVUE AILLEURS DANS LA PRÉSENTE SECTION</field>
+        <field name='indice'>2696</field>
+        <field name='proximo'>2734</field>
+    </row>
+    <row>
+        <field name='symbol'>C01</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>CHIMIE INORGANIQUE</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8373</field>
+    </row>
+    <row>
+        <field name='symbol'>C02</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>TRAITEMENT DE LEAU, DES EAUX RÉSIDUAIRES, DES EAUX OU BOUES DÉGOUT</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8374</field>
+    </row>
+    <row>
+        <field name='symbol'>C03</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>VERRE; LAINE MINÉRALE OU DE SCORIES</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8375</field>
+    </row>
+    <row>
+        <field name='symbol'>C04</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>CIMENTS; BÉTON; PIERRE ARTIFICIELLE; CÉRAMIQUES; RÉFRACTAIRES</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8376</field>
+    </row>
+    <row>
+        <field name='symbol'>C05</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>ENGRAIS; LEUR FABRICATION</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8377</field>
+    </row>
+    <row>
+        <field name='symbol'>C06</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>EXPLOSIFS; ALLUMETTES</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8378</field>
+    </row>
+    <row>
+        <field name='symbol'>C07</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>CHIMIE ORGANIQUE</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8379</field>
+    </row>
+    <row>
+        <field name='symbol'>C08</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>COMPOSÉS MACROMOLÉCULAIRES ORGANIQUES; LEUR PRÉPARATION OU LEUR MISE EN UVRE CHIMIQUE; COMPOSITIONS À BASE DE COMPOSÉS MACROMOLÉCULAIRES</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8380</field>
+    </row>
+    <row>
+        <field name='symbol'>C09</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>COLORANTS; PEINTURES; PRODUITS À POLIR; RÉSINES NATURELLES; ADHÉSIFS; COMPOSITIONS NON PRÉVUES AILLEURS; UTILISATIONS DE SUBSTANCES, NON PRÉVUES AILLEURS</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8381</field>
+    </row>
+    <row>
+        <field name='symbol'>C10</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>INDUSTRIES DU PÉTROLE, DU GAZ OU DU COKE; GAZ DE SYNTHÈSE CONTENANT DE LOXYDE DE CARBONE; COMBUSTIBLES; LUBRIFIANTS; TOURBE</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8382</field>
+    </row>
+    <row>
+        <field name='symbol'>C11</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>HUILES, GRAISSES, MATIÈRES GRASSES OU CIRES ANIMALES OU VÉGÉTALES; LEURS ACIDES GRAS; DÉTERGENTS; BOUGIES</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8383</field>
+    </row>
+    <row>
+        <field name='symbol'>C12</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>BIOCHIMIE; BIÈRE; SPIRITUEUX; VIN; VINAIGRE; MICROBIOLOGIE; ENZYMOLOGIE; TECHNIQUES DE MUTATION OU DE GÉNÉTIQUE</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8384</field>
+    </row>
+    <row>
+        <field name='symbol'>C13</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>INDUSTRIE DU SUCRE</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8385</field>
+    </row>
+    <row>
+        <field name='symbol'>C14</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>PEAUX; PELLETERIES; CUIRS</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8386</field>
+    </row>
+    <row>
+        <field name='symbol'>C21</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MÉTALLURGIE DU FER</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8387</field>
+    </row>
+    <row>
+        <field name='symbol'>C22</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MÉTALLURGIE; ALLIAGES FERREUX OU NON FERREUX; TRAITEMENT DES ALLIAGES OU DES MÉTAUX NON FERREUX</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8388</field>
+    </row>
+    <row>
+        <field name='symbol'>C23</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>REVÊTEMENT DE MATÉRIAUX MÉTALLIQUES; REVÊTEMENT DE MATÉRIAUX AVEC DES MATÉRIAUX MÉTALLIQUES; TRAITEMENT CHIMIQUE DE SURFACE; TRAITEMENT DE DIFFUSION DE MATÉRIAUX MÉTALLIQUES; REVÊTEMENT PAR ÉVAPORATION SOUS VIDE, PAR PULVÉRISATION CATHODIQUE, PAR IMPLANTATION DIONS OU PAR DÉPÔT CHIMIQUE EN PHASE VAPEUR, EN GÉNÉRAL; MOYENS POUR EMPÊCHER LA CORROSION DES MATÉRIAUX MÉTALLIQUES, LENTARTRAGE OU LES INCRUSTATIONS, EN GÉNÉRAL</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8389</field>
+    </row>
+    <row>
+        <field name='symbol'>C25</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>PROCÉDÉS ÉLECTROLYTIQUES OU ÉLECTROPHORÉTIQUES; APPAREILLAGES À CET EFFET</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8390</field>
+    </row>
+    <row>
+        <field name='symbol'>C30</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>CROISSANCE DES CRISTAUX</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8391</field>
+    </row>
+    <row>
+        <field name='symbol'>C40</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>TECHNOLOGIE COMBINATOIRE</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8392</field>
+    </row>
+    <row>
+        <field name='symbol'>C99</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MATIÈRE NON PRÉVUE AILLEURS DANS LA PRÉSENTE SECTION</field>
+        <field name='indice'>8372</field>
+        <field name='proximo'>8393</field>
+    </row>
+    <row>
+        <field name='symbol'>D01</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>FIBRES OU FILS NATURELS OU FAITS PAR LHOMME; FILATURE</field>
+        <field name='indice'>13439</field>
+        <field name='proximo'>13440</field>
+    </row>
+    <row>
+        <field name='symbol'>D02</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>FILS; FINITION MÉCANIQUE DES FILS OU CORDES; OURDISSAGE OU DRESSAGE</field>
+        <field name='indice'>13439</field>
+        <field name='proximo'>13441</field>
+    </row>
+    <row>
+        <field name='symbol'>D03</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>TISSAGE</field>
+        <field name='indice'>13439</field>
+        <field name='proximo'>13442</field>
+    </row>
+    <row>
+        <field name='symbol'>D04</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>TRESSAGE; FABRICATION DE LA DENTELLE; TRICOTAGE; PASSEMENTERIES; NON-TISSÉS</field>
+        <field name='indice'>13439</field>
+        <field name='proximo'>13443</field>
+    </row>
+    <row>
+        <field name='symbol'>D05</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>COUTURE; BRODERIE; IMPLANTATION DE POILS OU TOUFFES PAR PIQUAGE</field>
+        <field name='indice'>13439</field>
+        <field name='proximo'>13444</field>
+    </row>
+    <row>
+        <field name='symbol'>D06</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>TRAITEMENT DES TEXTILES OU SIMILAIRES; BLANCHISSAGE; MATÉRIAUX FLEXIBLES NON PRÉVUS AILLEURS</field>
+        <field name='indice'>13439</field>
+        <field name='proximo'>13445</field>
+    </row>
+    <row>
+        <field name='symbol'>D07</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>CORDES; CÂBLES AUTRES QUE LES CÂBLES ÉLECTRIQUES</field>
+        <field name='indice'>13439</field>
+        <field name='proximo'>13446</field>
+    </row>
+    <row>
+        <field name='symbol'>D21</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>FABRICATION DU PAPIER; PRODUCTION DE LA CELLULOSE</field>
+        <field name='indice'>13439</field>
+        <field name='proximo'>13447</field>
+    </row>
+    <row>
+        <field name='symbol'>D99</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MATIÈRE NON PRÉVUE AILLEURS DANS LA PRÉSENTE SECTION</field>
+        <field name='indice'>13439</field>
+        <field name='proximo'>13448</field>
+    </row>
+    <row>
+        <field name='symbol'>E01</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>CONSTRUCTION DE ROUTES, DE VOIES FERRÉES OU DE PONTS</field>
+        <field name='indice'>14417</field>
+        <field name='proximo'>14418</field>
+    </row>
+    <row>
+        <field name='symbol'>E02</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>HYDRAULIQUE; FONDATIONS; TERRASSEMENT</field>
+        <field name='indice'>14417</field>
+        <field name='proximo'>14419</field>
+    </row>
+    <row>
+        <field name='symbol'>E03</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>ADDUCTION DEAU; ÉVACUATION DES EAUX</field>
+        <field name='indice'>14417</field>
+        <field name='proximo'>14420</field>
+    </row>
+    <row>
+        <field name='symbol'>E04</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>BÂTIMENT</field>
+        <field name='indice'>14417</field>
+        <field name='proximo'>14421</field>
+    </row>
+    <row>
+        <field name='symbol'>E05</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>SERRURES; CLÉS; APPAREILLAGE DES PORTES OU FENÊTRES; COFFRES-FORTS</field>
+        <field name='indice'>14417</field>
+        <field name='proximo'>14422</field>
+    </row>
+    <row>
+        <field name='symbol'>E06</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>PORTES, FENÊTRES, VOLETS OU STORES À ROULEAU, EN GÉNÉRAL; ÉCHELLES</field>
+        <field name='indice'>14417</field>
+        <field name='proximo'>14423</field>
+    </row>
+    <row>
+        <field name='symbol'>E21</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>FORAGE DU SOL OU DE LA ROCHE; EXPLOITATION MINIÈRE</field>
+        <field name='indice'>14417</field>
+        <field name='proximo'>14424</field>
+    </row>
+    <row>
+        <field name='symbol'>E99</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MATIÈRE NON PRÉVUE AILLEURS DANS LA PRÉSENTE SECTION</field>
+        <field name='indice'>14417</field>
+        <field name='proximo'>14425</field>
+    </row>
+    <row>
+        <field name='symbol'>F01</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MACHINES OU MACHINES MOTRICES EN GÉNÉRAL; ENSEMBLES FONCTIONNELS DE MACHINES MOTRICES EN GÉNÉRAL; MACHINES À VAPEUR</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15571</field>
+    </row>
+    <row>
+        <field name='symbol'>F02</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MOTEURS À COMBUSTION; ENSEMBLES FONCTIONNELS DE MOTEURS À GAZ CHAUDS OU À PRODUITS DE COMBUSTION</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15572</field>
+    </row>
+    <row>
+        <field name='symbol'>F03</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MACHINES OU MACHINES MOTRICES À LIQUIDES; MÉCANISMES MOTEURS À VENT, À RESSORTS, À POIDS; PRODUCTION DÉNERGIE MÉCANIQUE OU DE POUSSÉE PROPULSIVE PAR RÉACTION, NON PRÉVUE AILLEURS</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15573</field>
+    </row>
+    <row>
+        <field name='symbol'>F04</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MACHINES À LIQUIDES À DÉPLACEMENT POSITIF, POMPES À LIQUIDES OU À FLUIDES COMPRESSIBLES</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15574</field>
+    </row>
+    <row>
+        <field name='symbol'>F15</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>DISPOSITIFS DE MANOEUVRE À PRESSION DE FLUIDE; HYDRAULIQUE OU TECHNIQUE PNEUMATIQUE EN GÉNÉRAL</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15575</field>
+    </row>
+    <row>
+        <field name='symbol'>F16</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>ÉLÉMENTS OU ENSEMBLES DE TECHNOLOGIE; MESURES GÉNÉRALES POUR ASSURER LE BON FONCTIONNEMENT DES MACHINES OU INSTALLATIONS; ISOLATION THERMIQUE EN GÉNÉRAL</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15576</field>
+    </row>
+    <row>
+        <field name='symbol'>F17</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>STOCKAGE OU DISTRIBUTION DES GAZ OU DES LIQUIDES</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15577</field>
+    </row>
+    <row>
+        <field name='symbol'>F21</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>ÉCLAIRAGE</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15578</field>
+    </row>
+    <row>
+        <field name='symbol'>F22</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>PRODUCTION DE VAPEUR</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15579</field>
+    </row>
+    <row>
+        <field name='symbol'>F23</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>APPAREILS À COMBUSTION; PROCÉDÉS DE COMBUSTION</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15580</field>
+    </row>
+    <row>
+        <field name='symbol'>F24</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>CHAUFFAGE; FOURNEAUX; VENTILATION</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15581</field>
+    </row>
+    <row>
+        <field name='symbol'>F25</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>RÉFRIGÉRATION OU REFROIDISSEMENT; SYSTÈMES COMBINÉS DE CHAUFFAGE ET DE RÉFRIGÉRATION; SYSTÈMES À POMPES À CHALEUR; FABRICATION OU EMMAGASINAGE DE LA GLACE; LIQUÉFACTION OU SOLIDIFICATION DES GAZ</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15582</field>
+    </row>
+    <row>
+        <field name='symbol'>F26</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>SÉCHAGE</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15583</field>
+    </row>
+    <row>
+        <field name='symbol'>F27</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>FOURS; CORNUES DE DISTILLATION</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15584</field>
+    </row>
+    <row>
+        <field name='symbol'>F28</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>ÉCHANGEURS DE CHALEUR EN GÉNÉRAL</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15585</field>
+    </row>
+    <row>
+        <field name='symbol'>F41</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>ARMES</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15586</field>
+    </row>
+    <row>
+        <field name='symbol'>F42</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MUNITIONS; SAUTAGE</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15587</field>
+    </row>
+    <row>
+        <field name='symbol'>F99</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MATIÈRE NON PRÉVUE AILLEURS DANS LA PRÉSENTE SECTION</field>
+        <field name='indice'>15570</field>
+        <field name='proximo'>15588</field>
+    </row>
+    <row>
+        <field name='symbol'>G01</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MÉTROLOGIE; TESTS</field>
+        <field name='indice'>18859</field>
+        <field name='proximo'>18860</field>
+    </row>
+    <row>
+        <field name='symbol'>G02</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>OPTIQUE</field>
+        <field name='indice'>18859</field>
+        <field name='proximo'>18861</field>
+    </row>
+    <row>
+        <field name='symbol'>G03</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>PHOTOGRAPHIE; CINÉMATOGRAPHIE; TECHNIQUES ANALOGUES UTILISANT DAUTRES ONDES QUE DES ONDES OPTIQUES; ÉLECTROGRAPHIE; HOLOGRAPHIE</field>
+        <field name='indice'>18859</field>
+        <field name='proximo'>18862</field>
+    </row>
+    <row>
+        <field name='symbol'>G04</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>HOROMÉTRIE</field>
+        <field name='indice'>18859</field>
+        <field name='proximo'>18863</field>
+    </row>
+    <row>
+        <field name='symbol'>G05</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>COMMANDE; RÉGULATION</field>
+        <field name='indice'>18859</field>
+        <field name='proximo'>18864</field>
+    </row>
+    <row>
+        <field name='symbol'>G06</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>CALCUL; COMPTAGE</field>
+        <field name='indice'>18859</field>
+        <field name='proximo'>18865</field>
+    </row>
+    <row>
+        <field name='symbol'>G07</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>DISPOSITIFS DE CONTRÔLE</field>
+        <field name='indice'>18859</field>
+        <field name='proximo'>18866</field>
+    </row>
+    <row>
+        <field name='symbol'>G08</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>SIGNALISATION</field>
+        <field name='indice'>18859</field>
+        <field name='proximo'>18867</field>
+    </row>
+    <row>
+        <field name='symbol'>G09</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>ENSEIGNEMENT; CRYPTOGRAPHIE; PRÉSENTATION; PUBLICITÉ; SCEAUX</field>
+        <field name='indice'>18859</field>
+        <field name='proximo'>18868</field>
+    </row>
+    <row>
+        <field name='symbol'>G10</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>INSTRUMENTS DE MUSIQUE; ACOUSTIQUE</field>
+        <field name='indice'>18859</field>
+        <field name='proximo'>18869</field>
+    </row>
+    <row>
+        <field name='symbol'>G11</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>ENREGISTREMENT DE LINFORMATION</field>
+        <field name='indice'>18859</field>
+        <field name='proximo'>18870</field>
+    </row>
+    <row>
+        <field name='symbol'>G12</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>DÉTAILS OU PARTIES CONSTITUTIVES DES INSTRUMENTS</field>
+        <field name='indice'>18859</field>
+        <field name='proximo'>18871</field>
+    </row>
+    <row>
+        <field name='symbol'>G16</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>TECHNOLOGIES DE L’INFORMATION ET DE LA COMMUNICATION [TIC] SPÉCIALEMENT ADAPTÉES À DES DOMAINES D’APPLICATION SPÉCIFIQUES</field>
+        <field name='indice'>18859</field>
+        <field name='proximo'>18872</field>
+    </row>
+    <row>
+        <field name='symbol'>G21</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>PHYSIQUE NUCLÉAIRE; TECHNIQUE NUCLÉAIRE</field>
+        <field name='indice'>18859</field>
+        <field name='proximo'>18873</field>
+    </row>
+    <row>
+        <field name='symbol'>G99</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MATIÈRE NON PRÉVUE AILLEURS DANS LA PRÉSENTE SECTION</field>
+        <field name='indice'>18859</field>
+        <field name='proximo'>18874</field>
+    </row>
+    <row>
+        <field name='symbol'>H01</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>ÉLÉMENTS ÉLECTRIQUES FONDAMENTAUX</field>
+        <field name='indice'>21749</field>
+        <field name='proximo'>21750</field>
+    </row>
+    <row>
+        <field name='symbol'>H02</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>PRODUCTION, CONVERSION OU DISTRIBUTION DE LÉNERGIE ÉLECTRIQUE</field>
+        <field name='indice'>21749</field>
+        <field name='proximo'>21751</field>
+    </row>
+    <row>
+        <field name='symbol'>H03</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>CIRCUITS ÉLECTRONIQUES FONDAMENTAUX</field>
+        <field name='indice'>21749</field>
+        <field name='proximo'>21752</field>
+    </row>
+    <row>
+        <field name='symbol'>H04</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>TECHNIQUE DE LA COMMUNICATION ÉLECTRIQUE</field>
+        <field name='indice'>21749</field>
+        <field name='proximo'>21753</field>
+    </row>
+    <row>
+        <field name='symbol'>H05</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>TECHNIQUES ÉLECTRIQUES NON PRÉVUES AILLEURS</field>
+        <field name='indice'>21749</field>
+        <field name='proximo'>21754</field>
+    </row>
+    <row>
+        <field name='symbol'>H99</field>
+        <field name='kind'>c</field>
+        <field name='descricao'>MATIÈRE NON PRÉVUE AILLEURS DANS LA PRÉSENTE SECTION</field>
+        <field name='indice'>21749</field>
+        <field name='proximo'>21755</field>
+    </row>
+</ROOT>

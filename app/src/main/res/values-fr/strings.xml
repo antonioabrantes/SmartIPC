@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartIPC</string>
+    <string name="item_inicio">Debut</string>
+    <string name="item_pesquisa">Chercher</string>
+    <string name="item_idiomas">Langue</string>
+    <string name="item_about">Info</string>
+    <string name="item_sair">Sortie</string>
+    <string name="pesquisar">Entrez le groupe, par exemple: H01L27/115</string>
+    <string name="procure">Chercher</string>
+    <string name="stripc">Classification Internationale des Brevets</string>
+    <string name="about1">Cette application a été développée par Antonio Abrantes - 2019</string>
+    <string name="about2">contact: otimistarj@gmail.com</string>
+    <string name="about3">Les versions anglaise et française de IPC à https://www.wipo.int/ipc/itos4ipc/ITSupport_and_download_area/20190101/MasterFiles/</string>
+    <string name="about5">Version portugaise de la CIB à http://ipc.inpi.gov.br/</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+</resources>

@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/item_inicio"
+        android:title="@string/item_inicio"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/item_pesquisa"
+        android:title="@string/item_pesquisa"
+        android:orderInCategory="200"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_search"/>
+
+    <item android:id="@+id/item_idiomas"
+        android:title="@string/item_idiomas"
+        android:orderInCategory="300"
+        app:showAsAction="never" />
+
+
+    <item android:id="@+id/item_about"
+        android:title="@string/item_about"
+        android:orderInCategory="400"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/item_sair"
+        android:title="@string/item_sair"
+        android:orderInCategory="500"
+        app:showAsAction="never" />
+
+</menu>
